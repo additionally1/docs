@@ -35,7 +35,7 @@ railway run <cmd>
 For example, to run your node project with Railway:
 
 ```bash
-railway run npm start
+railway run npm restart
 ```
 
 If you have a Dockerfile in your project directory, you can just run
